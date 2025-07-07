@@ -19,11 +19,16 @@
     </p>
     <h2>Contact Me</h2>
     <div class="socials">
-      <a href="asura@asurawhite.xyz"">Email</a>
+      <a href="mailto:asura@asurawhite.xyz">Email</a>
       <a href="https://github.com/asurawhite1" target="_blank">GitHub</a>
       <a href="https://discord.com/users/1017037674936270860" target="_blank">Discord</a>
       <a href="https://www.youtube.com/@asurawhite_1" target="_blank">Youtube</a>
     </div>
   </div>
+  <script>
+    if (window.location.pathname === '/aboutme/') {
+      history.replaceState(null, '', '/aboutme');
+    }
+  </script>
 </body>
 </html>
