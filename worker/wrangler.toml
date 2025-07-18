@@ -1,11 +1,9 @@
-name = 'asura-worker'
+name = "asura-worker"
 main = "src/index.js"
 compatibility_date = "2025-07-18"
 
-[site]
-bucket = "../frontend"
+site = { bucket = "../frontend" }
 
-[observability.logs]
-enabled = true
+observability = { logs = { enabled = true } }
 
 routes = ["https://asurawhite.xyz/*"]
