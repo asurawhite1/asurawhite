@@ -1,4 +1,4 @@
 name = "remove-trailing-slash"
 compatibility_date = "2025-07-18"
 type = "javascript"
-main = "index.js"
+main = "main.js"
