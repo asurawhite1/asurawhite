@@ -1,3 +1,5 @@
 name = 'asuramoon'
 type = "javascript"
 main = "main.js"
+[observability.logs]
+enabled = true
