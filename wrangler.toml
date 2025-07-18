@@ -1,4 +1,3 @@
 name = 'asuramoon'
-compatibility_date = "2025-07-18"
 type = "javascript"
 main = "main.js"
