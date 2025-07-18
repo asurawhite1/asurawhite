@@ -1,0 +1,1 @@
+console.log("made with 300% of my brain usage with help of chatgpt")
