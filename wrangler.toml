@@ -1,4 +1,0 @@
-name = "asuramoon"
-compatibility_date = "2025-07-18"
-[observability.logs]
-enabled = true
