@@ -1,5 +1,5 @@
 name = "asura-worker"
-main = "src/index.js"
+main = "index.js"
 compatibility_date = "2025-07-18"
 
 site = { bucket = "../frontend" }
